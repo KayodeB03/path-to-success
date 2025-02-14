@@ -155,7 +155,7 @@ th {
 }
 
 footer{
-    margin-top: 0 px;
+    margin-top: 0;
     height: 100px;
     border: 1px solid var(--lavender);
     background-color: var(--lavender);
@@ -163,10 +163,10 @@ footer{
     position: relative;
 }
 
-small p{
+small{
     position:relative;
     color:var(--white);
-    top: 25px;
+    top: 30px;
     margin-left: 60px;
     
 }
@@ -174,7 +174,7 @@ small p{
 small a{
     position:relative;
     color:var(--white);
-    top: -10px;
+    top: -20px;
     margin-left: 250px;
 }
 
